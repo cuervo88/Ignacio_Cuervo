@@ -12,6 +12,6 @@ Here is just a link to the plot generated with that code.
 
 [Example](https://cuervo88.github.io/Scrape_nobel_laureates/) 
 
-## File converter from a simulation file format into a format accessible by a visualizating tool gromacs.
+## File converter from a simulation file format into a gromacs format. Visualization of this file can be done in pymol
 
 Simple code to convert a file, can be found [here](https://github.com/cuervo88/Data_to_gro).
