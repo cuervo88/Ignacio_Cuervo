@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# List of some projects
 
-You can use the [editor on GitHub](https://github.com/cuervo88/Ignacio_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Web scraper
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project done to practice web scraping.
 
-### Markdown
+Code generated for the simple practice of web scrapping after a conversation with a friend regarding a possible correlation between the star signs and the nobel price winners.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The project can be explored [here](https://github.com/cuervo88/Scrape_nobel_laureates).
 
-```markdown
-Syntax highlighted code block
+Here is just a link to the plot generated with that code.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cuervo88/Ignacio_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Example](https://cuervo88.github.io/Scrape_nobel_laureates/) 
