@@ -1,5 +1,14 @@
 # List of some projects
 
+## Covid mutation display
+
+### Simple code to visualize the mutations of the most common SARS-CoV-2 variants
+
+
+
+The project can be explored [here](https://github.com/cuervo88/covid_dna_alignment/)
+
+
 ## Web scraper
 
 ### Project done to practice web scraping.
