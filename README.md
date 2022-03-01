@@ -6,11 +6,11 @@
 
 Example of a tree generated with that code
 
-![Tree](https://github.com/cuervo88/Ignacio_Portfolio/blob/main/pics/get_tree.PNG)
+![Tree](https://github.com/cuervo88/Ignacio_Cuervo/blob/main/pics/get_tree.PNG)
 
 Example of the sequence alignment viewer
 
-![Alignment](https://github.com/cuervo88/Ignacio_Portfolio/blob/main/pics/view_alignment.PNG)
+![Alignment](https://github.com/cuervo88/Ignacio_Cuervo/blob/main/pics/view_alignment.PNG)
 
 The project can be explored [here](https://github.com/cuervo88/covid_dna_alignment/)
 
