@@ -14,11 +14,11 @@ This project was initiated as part of the Google Analytics certification.
 
 Example of a tree generated with that code
 
-![Tree](https://github.com/cuervo88/Ignacio_Cuervo/blob/44be6cd14cdf0297ce677c86dab6ee84eaac3900/pics/get_tree.PNG)
+![Tree](https://raw.githubusercontent.com/cuervo88/Ignacio_Cuervo/main/pics/get_tree.PNG)
 
 Example of the sequence alignment viewer
 
-![Alignment](https://github.com/cuervo88/Ignacio_Cuervo/blob/main/pics/view_alignment.PNG)
+![Alignment](https://raw.githubusercontent.com/cuervo88/Ignacio_Cuervo/main/pics/view_alignment.PNG)
 
 The project can be explored [here](https://github.com/cuervo88/covid_dna_alignment/)
 
