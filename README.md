@@ -1,4 +1,12 @@
+This page is meant as a summary of some of the projects I do in my free time. 
+
 # List of some projects
+
+## Analysis of publicly available smart watch data (Too be updated soon)
+
+
+This project was initiated as part of the Google Analytics certification.
+
 
 ## Covid mutation display
 
@@ -6,7 +14,7 @@
 
 Example of a tree generated with that code
 
-![Tree](https://github.com/cuervo88/Ignacio_Cuervo/blob/main/pics/get_tree.PNG)
+![Tree](https://github.com/cuervo88/Ignacio_Cuervo/blob/44be6cd14cdf0297ce677c86dab6ee84eaac3900/pics/get_tree.PNG)
 
 Example of the sequence alignment viewer
 
