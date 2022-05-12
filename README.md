@@ -2,10 +2,12 @@ This page is meant as a summary of some of the projects I do in my free time.
 
 # List of some projects
 
-## Analysis of publicly available smart watch data (Too be updated soon)
+## Analysis of publicly available smart watch data 
 
 
-This project was initiated as part of the Google Analytics certification.
+This project was initiated as part of the Google Analytics certification. The analysis was done in R as it was used for the Google Analytics course, and to give a little variety to this portfolio.
+
+Link [here](https://github.com/cuervo88/fitbit_analysis)
 
 
 ## Covid mutation display
